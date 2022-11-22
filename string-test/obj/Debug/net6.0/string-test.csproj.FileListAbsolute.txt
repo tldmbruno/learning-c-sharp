@@ -1,0 +1,15 @@
+C:\Users\bruno\prog\string-test\bin\Debug\net6.0\string-test.exe
+C:\Users\bruno\prog\string-test\bin\Debug\net6.0\string-test.deps.json
+C:\Users\bruno\prog\string-test\bin\Debug\net6.0\string-test.runtimeconfig.json
+C:\Users\bruno\prog\string-test\bin\Debug\net6.0\string-test.dll
+C:\Users\bruno\prog\string-test\bin\Debug\net6.0\string-test.pdb
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.csproj.AssemblyReference.cache
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.AssemblyInfoInputs.cache
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.AssemblyInfo.cs
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.csproj.CoreCompileInputs.cache
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.dll
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\refint\string-test.dll
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.pdb
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\string-test.genruntimeconfig.cache
+C:\Users\bruno\prog\string-test\obj\Debug\net6.0\ref\string-test.dll

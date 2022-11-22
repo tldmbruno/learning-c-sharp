@@ -1,0 +1,15 @@
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.csproj.AssemblyReference.cache
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.AssemblyInfoInputs.cache
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.AssemblyInfo.cs
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.csproj.CoreCompileInputs.cache
+C:\Users\bruno\prog\static-test\bin\Debug\net6.0\static-test.exe
+C:\Users\bruno\prog\static-test\bin\Debug\net6.0\static-test.deps.json
+C:\Users\bruno\prog\static-test\bin\Debug\net6.0\static-test.runtimeconfig.json
+C:\Users\bruno\prog\static-test\bin\Debug\net6.0\static-test.dll
+C:\Users\bruno\prog\static-test\bin\Debug\net6.0\static-test.pdb
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.dll
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\refint\static-test.dll
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.pdb
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\static-test.genruntimeconfig.cache
+C:\Users\bruno\prog\static-test\obj\Debug\net6.0\ref\static-test.dll

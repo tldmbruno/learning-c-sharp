@@ -1,0 +1,15 @@
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.csproj.AssemblyReference.cache
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.AssemblyInfoInputs.cache
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.AssemblyInfo.cs
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.csproj.CoreCompileInputs.cache
+C:\Users\bruno\prog\atm-nerd\bin\Debug\net6.0\atm-nerd.exe
+C:\Users\bruno\prog\atm-nerd\bin\Debug\net6.0\atm-nerd.deps.json
+C:\Users\bruno\prog\atm-nerd\bin\Debug\net6.0\atm-nerd.runtimeconfig.json
+C:\Users\bruno\prog\atm-nerd\bin\Debug\net6.0\atm-nerd.dll
+C:\Users\bruno\prog\atm-nerd\bin\Debug\net6.0\atm-nerd.pdb
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.dll
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\refint\atm-nerd.dll
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.pdb
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\atm-nerd.genruntimeconfig.cache
+C:\Users\bruno\prog\atm-nerd\obj\Debug\net6.0\ref\atm-nerd.dll

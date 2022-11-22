@@ -1,0 +1,15 @@
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.csproj.AssemblyReference.cache
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.AssemblyInfoInputs.cache
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.AssemblyInfo.cs
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.csproj.CoreCompileInputs.cache
+C:\Users\bruno\prog\dice-roller\bin\Debug\net6.0\dice-roller.exe
+C:\Users\bruno\prog\dice-roller\bin\Debug\net6.0\dice-roller.deps.json
+C:\Users\bruno\prog\dice-roller\bin\Debug\net6.0\dice-roller.runtimeconfig.json
+C:\Users\bruno\prog\dice-roller\bin\Debug\net6.0\dice-roller.dll
+C:\Users\bruno\prog\dice-roller\bin\Debug\net6.0\dice-roller.pdb
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.dll
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\refint\dice-roller.dll
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.pdb
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\dice-roller.genruntimeconfig.cache
+C:\Users\bruno\prog\dice-roller\obj\Debug\net6.0\ref\dice-roller.dll
