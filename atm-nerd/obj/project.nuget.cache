@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CDcns+8SfLdNwhRl8GD8sanfvd6VOsMaVPwufBHMU4CKTJo3Eb2xsM3P/yv18A53mGFFmL/Wg4bjQqkhuYw7Gg==",
+  "dgSpecHash": "lJtr45L6LOXpEgRQaLh/nwzg5A7HERF9IrLzZZXXBGznf7f3m5LF9WazwyrBY5bY4GNjvdtDbzZEYrosvXFPLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\prog\\atm-nerd\\atm-nerd.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\atm-nerd\\atm-nerd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.AssemblyInfo.cs
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\bin\Debug\net6.0\this-test.exe
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\bin\Debug\net6.0\this-test.deps.json
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\bin\Debug\net6.0\this-test.runtimeconfig.json
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\bin\Debug\net6.0\this-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\bin\Debug\net6.0\this-test.pdb
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\refint\this-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.pdb
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\this-test.genruntimeconfig.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\this-test\obj\Debug\net6.0\ref\this-test.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9eQ7IJ/mxw86W14rVvkU2/E9+NuzPng2ZyH/NM+XvMSviyB++AyEUsad04rk9tf4qNjvcDaINDMQEVdx6JWEg==",
+  "dgSpecHash": "vQpj93bGouBAy17Wp07QjaMhsYjxkEBBDFDPw+AliLT8nr0AoLrO1j6n8At0qb3+xP9VTHyFX26zaPZrldUlcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\prog\\cli-list\\cli-list.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\cli-list\\cli-list.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

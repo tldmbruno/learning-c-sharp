@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\bin\Debug\net6.0-windows\window-test.exe
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\bin\Debug\net6.0-windows\window-test.deps.json
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\bin\Debug\net6.0-windows\window-test.runtimeconfig.json
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\bin\Debug\net6.0-windows\window-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\bin\Debug\net6.0-windows\window-test.pdb
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.AssemblyInfo.cs
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\refint\window-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.pdb
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\window-test.genruntimeconfig.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\window-test\obj\Debug\net6.0-windows\ref\window-test.dll

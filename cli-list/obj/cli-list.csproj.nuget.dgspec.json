@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\prog\\cli-list\\cli-list.csproj": {}
+    "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\cli-list\\cli-list.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\prog\\cli-list\\cli-list.csproj": {
+    "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\cli-list\\cli-list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\prog\\cli-list\\cli-list.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\cli-list\\cli-list.csproj",
         "projectName": "cli-list",
-        "projectPath": "C:\\Users\\bruno\\prog\\cli-list\\cli-list.csproj",
+        "projectPath": "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\cli-list\\cli-list.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\prog\\cli-list\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Documents\\GitHub\\Learning-C-Sharp\\cli-list\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
