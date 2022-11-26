@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.AssemblyInfo.cs
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\bin\Debug\net6.0\thread-getset-test.exe
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\bin\Debug\net6.0\thread-getset-test.deps.json
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\bin\Debug\net6.0\thread-getset-test.runtimeconfig.json
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\bin\Debug\net6.0\thread-getset-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\bin\Debug\net6.0\thread-getset-test.pdb
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\refint\thread-getset-test.dll
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.pdb
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\thread-getset-test.genruntimeconfig.cache
+C:\Users\bruno\Documents\GitHub\Learning-C-Sharp\thread-getset-test\obj\Debug\net6.0\ref\thread-getset-test.dll
